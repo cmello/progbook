@@ -74,7 +74,7 @@ Now, we need to navigate to the directory where the file was saved, and run the 
 The directory paths are again somewhat OS dependent but you have a few tools that help you locate your file:
 
 * You can find out which files are in the *current directory* in the shell by running "ls".
-* You can find out what your current directory is by running "cwd" (current working directory).
+* You can find out what your current directory is by running "pwd" (print working directory).
 * You can change the directory by running "cd" followed by the directory. E.g. if you have a directory called "Documents" in your current working directory and you wish to change your current working directory to that directory, you can do this by running "cd Documents".
 * You can change to the *parent directory* by running "cd ..".
 
